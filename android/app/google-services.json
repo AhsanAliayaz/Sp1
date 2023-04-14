@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "925316731464",
+    "project_id": "jp-services-26c38",
+    "storage_bucket": "jp-services-26c38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:925316731464:android:d46ae3bacab0aa526a7e7d",
+        "android_client_info": {
+          "package_name": "com.sp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "925316731464-jj1fmu5u5ogrku9qloh7fu8t79e84stm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1fv5mx8g_q1dhufmXU826bL2sNJrxSuM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "925316731464-jj1fmu5u5ogrku9qloh7fu8t79e84stm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
